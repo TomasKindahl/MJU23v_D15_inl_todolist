@@ -1,4 +1,6 @@
-﻿namespace MJU23v_D15_inl_todolist
+﻿// Something dumb here!
+
+namespace MJU23v_D15_inl_todolist
 {
     public class Program
     {
